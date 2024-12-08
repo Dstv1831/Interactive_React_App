@@ -135,7 +135,7 @@ The project uses `@testing-library/react`, `@testing-library/jest-dom` and `jest
 **Run Tests**:
 
 ```
-npm run dev
+npm test
  ```
 
 This will execute the test suite to validate button functionality and state transitions.
