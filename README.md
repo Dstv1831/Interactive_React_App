@@ -133,10 +133,11 @@ The project uses `@testing-library/react`, `@testing-library/jest-dom` and `jest
     -   `Reset` - Resets the state.
 
 **Run Tests**:
-    
-    ```
-    npm test
-    ```
+
+```
+npm run dev
+ ```
+
 This will execute the test suite to validate button functionality and state transitions.
 
 ## Additional Notes
